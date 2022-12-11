@@ -1,7 +1,7 @@
 ﻿using laba16_17;
 
 Console.WriteLine("Введите кол-во машин: ");
-int N = Convert.ToInt32(Console.ReadLine());
+int N = Convert.ToInt32(Console.ReadLine());                         //кол-во объектов
 Console.WriteLine("Введите кол-во самолётов: ");
 int N1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите кол-во поездов: ");
@@ -15,7 +15,7 @@ for (int q = 0; q < N; q++)
     Console.WriteLine($"Автомобиль №{q + 1}:");
     Console.WriteLine("Имя:");
     string? a = Console.ReadLine();
-    Console.WriteLine("Номер:");
+    Console.WriteLine("Номер:");                                // заполняем объекты
     int b = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Марка:");
     string? c = Console.ReadLine();
@@ -25,7 +25,7 @@ for (int q = 0; q < N; q++)
     autos[q] = auto;
     if (q == N - 1)
     {
-        autos[q].transport_default();
+        autos[q].transport_default(); // выводим дефолтный метод который ещё и абстрактный
     }
     
 
@@ -67,7 +67,7 @@ for (int e = 0; e < N2; e++)
 }
 for (int q = 0; q < N; q++)
 {
-    autos[q].Printdata(autos[q]);
+    autos[q].Printdata(autos[q]);          //выводим все объекты
 }
 for (int w = 0; w < N1; w++)
 {

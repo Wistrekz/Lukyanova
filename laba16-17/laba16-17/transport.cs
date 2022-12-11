@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace laba16_17
 {
-    abstract class transport
+    abstract class transport          //абстрактный класс
     {
         public string? name { get; set; }
         public int number { get; set; }
         public string? mark { get; set; }
 
-        public abstract void transport_default();
+        public abstract void transport_default(); //абстрактный метод
     }
 }

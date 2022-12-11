@@ -8,22 +8,22 @@ namespace laba16_17
 {
     internal class plane : transport
     {
-        private int passagers;
-        public plane(string Name, int Number, string Mark, int Passagers)
+        private int passagers; // тут без разницы стоит паблик и приват
+        public plane(string Name, int Number, string Mark, int Passagers) //конструктор
         {
             name = Name;
             number = Number;
             mark = Mark;
             passagers = Passagers;
         }
-        public override void transport_default()
+        public override void transport_default() // этот метод конструктор(по умолчанию как в условии) и абстрактный метод
         {
             plane plain = new("Неизвестно", 0, "airplane", 5);
             Console.Write("\t\t" + plain.name + ", " + plain.number + ", " + plain.mark + ", " + plain.passagers + "\n");
         }
-        public void Printdata(plane data)
+        public void Printdata(plane data) // вывод 
         {
-            Console.Write(data.name + ", " + data.number + ", " + data.mark + "," + data.passagers);
+            Console.WriteLine(data.name + ", " + data.number + ", " + data.mark + "," + data.passagers);
         }
     }
 }
