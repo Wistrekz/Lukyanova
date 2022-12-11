@@ -1,0 +1,15 @@
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\bin\Debug\net6.0\laba16-17.exe
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\bin\Debug\net6.0\laba16-17.deps.json
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\bin\Debug\net6.0\laba16-17.runtimeconfig.json
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\bin\Debug\net6.0\laba16-17.dll
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\bin\Debug\net6.0\laba16-17.pdb
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.csproj.AssemblyReference.cache
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.AssemblyInfoInputs.cache
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.AssemblyInfo.cs
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.csproj.CoreCompileInputs.cache
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.dll
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\refint\laba16-17.dll
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.pdb
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\laba16-17.genruntimeconfig.cache
+C:\Users\Treiser\source\repos\laba16-17\laba16-17\obj\Debug\net6.0\ref\laba16-17.dll
