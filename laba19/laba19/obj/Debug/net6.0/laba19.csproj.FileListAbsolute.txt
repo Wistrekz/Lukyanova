@@ -1,0 +1,15 @@
+C:\Users\Treiser\source\repos\laba19\laba19\bin\Debug\net6.0\laba19.exe
+C:\Users\Treiser\source\repos\laba19\laba19\bin\Debug\net6.0\laba19.deps.json
+C:\Users\Treiser\source\repos\laba19\laba19\bin\Debug\net6.0\laba19.runtimeconfig.json
+C:\Users\Treiser\source\repos\laba19\laba19\bin\Debug\net6.0\laba19.dll
+C:\Users\Treiser\source\repos\laba19\laba19\bin\Debug\net6.0\laba19.pdb
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.csproj.AssemblyReference.cache
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.AssemblyInfoInputs.cache
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.AssemblyInfo.cs
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.csproj.CoreCompileInputs.cache
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.dll
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\refint\laba19.dll
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.pdb
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\laba19.genruntimeconfig.cache
+C:\Users\Treiser\source\repos\laba19\laba19\obj\Debug\net6.0\ref\laba19.dll
